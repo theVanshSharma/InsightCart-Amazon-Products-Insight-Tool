@@ -3,7 +3,7 @@
 InsightCart is a local web app built using Python and Streamlit that scrapes product information from Amazon product pages.  
 It extracts key details like Title, Price, Rating, Reviews, and Availability, and allows users to download the data as an Excel file.
 
-# Not on Deployment
+# Note on Deployment
 **Disclaimer:** Amazon blocks scraping from cloud-hosted environments like Streamlit Community Cloud.  
 This app is designed to be run locally on your machine for educational purposes.
 
