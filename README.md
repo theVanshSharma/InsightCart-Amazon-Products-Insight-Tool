@@ -32,9 +32,9 @@ This app is designed to be run locally on your machine for educational purposes.
 - Run Streamlit:
   - streamlit run main.py
 
-![Amazon Product Scraper Screenshot]<img width="1014" height="562" alt="image" src="https://github.com/user-attachments/assets/d5e51309-d489-4ac1-8155-26fc07cd0944" />
+#Amazon Product Scraper Screenshot<img width="1014" height="562" alt="image" src="https://github.com/user-attachments/assets/d5e51309-d489-4ac1-8155-26fc07cd0944" />
 
-![Drop the Product URL]<img width="956" height="767" alt="image" src="https://github.com/user-attachments/assets/aacd7e88-25fb-42eb-b057-407e3b8a8aab" />
+#Drop the Product URL<img width="956" height="767" alt="image" src="https://github.com/user-attachments/assets/aacd7e88-25fb-42eb-b057-407e3b8a8aab" />
 
-![Download Excel Sheet of the insights]<img width="1914" height="181" alt="image" src="https://github.com/user-attachments/assets/a63ff95e-8352-4c39-be82-91461e4c06a3" />
+#Download Excel Sheet of the insights<img width="1914" height="181" alt="image" src="https://github.com/user-attachments/assets/a63ff95e-8352-4c39-be82-91461e4c06a3" />
 
