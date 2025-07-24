@@ -24,13 +24,13 @@ This app is designed to be run locally on your machine for educational purposes.
 
 # Run it locally
 - Clone the repo: 
-git clone https://github.com/theVanshSharma/InsightCart-Amazon-Products-Insight-Tool.git
-cd insightcart
+  - git clone https://github.com/theVanshSharma/InsightCart-Amazon-Products-Insight-Tool.git
+  - cd insightcart
 
-- Install dependencies
-pip install -r requirements.txt
+- Install dependencies:
+  - pip install -r requirements.txt
 
-- Run Streamlit
-streamlit run main.py
+- Run Streamlit:
+  - streamlit run main.py
 
 
